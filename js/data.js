@@ -1,7 +1,4 @@
-/* =========================================================
-   Portfolio Data — يُدار عبر admin.html
-   آخر تحديث: 2026-11-12T16:32:29.059Z
-   ========================================================= */
+/* Portfolio Data — يديرها admin.html — 2026-11-12T17:09:19.561Z */
 
 window.SITE = {
   "meta": {
@@ -236,6 +233,14 @@ window.SITE = {
     {
       "id": "general",
       "label": "عام"
+    },
+    {
+      "id": "cat-mwdsy0uq",
+      "label": "صنف"
+    },
+    {
+      "id": "cat-mwdsy2b1",
+      "label": "صنف"
     }
   ]
 };
@@ -311,6 +316,3 @@ window.SECTIONS = [
     ]
   }
 ];
-
-window.PRODUCTS_3D = window.PRODUCTS_3D || [];
-window.WEB_PROJECTS = window.WEB_PROJECTS || [];
